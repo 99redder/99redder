@@ -31,9 +31,9 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React, Node.js
 - **Platforms:** Mobile Applications, Web Development
-- **Tools:** Git, GitHub, Vercel, Render, Claude Code, Codex, OpenClaw, Neon, TiDB
+- **Tools:** MiniMax, Vercel, Cloudflare, Digital Ocean, Render, Resend, Claude Code, Codex, OpenClaw, Neon, TiDB
 <br>
 
 ## 📄 Last Updated
 
-*21 February, 2026*
+*24 February, 2026*
