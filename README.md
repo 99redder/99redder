@@ -6,6 +6,16 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 🚀 Recent Projects
 
+⚛️ **[Reactor Scheduler](https://99redder.github.io/reactor-scheduler/)** (Jun 2026) - A polymer bead reactor and expander capacity planning app with scheduling engines, utilization checks, JSON backup/import, and test coverage.
+
+🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency information PWA with secure login, password reset, encrypted storage support, and a dedicated Ask K assistant.
+
+🏠 **[Rental Property Manager](https://99redder.github.io/rentals/)** (Apr 2026) - A property management app for tracking rental income, expenses, depreciation, tax planning, maintenance, and portfolio performance.
+
+🗓️ **[Look Ahead](https://lookahead.easternshore.ai)** (Mar 2026) - A cyberpunk calendar planner PWA with a rolling 12-week task grid, mobile view, and Cloudflare Worker + D1 syncing.
+
+🤖 **[Eastern Shore AI](https://www.easternshore.ai)** (Feb 2026) - A small business AI automation platform with service pages, booking flows, support chat, Stripe payments, and Survival Node resources.
+
 🧩 **[OpenClaw Security Audit Button](https://github.com/99redder/openclaw-dashboard-security-audit-button-skill)** (Feb 2026) - An OpenClaw skill that adds a Security Audit (--deep) dashboard button with clear status states and chat-posted audit results.
 
 📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - A stock trading notes and portfolio tracking application. I use it every day!
