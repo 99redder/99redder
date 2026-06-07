@@ -36,4 +36,4 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 📄 Last Updated
 
-*24 February, 2026*
+*07 June, 2026*
