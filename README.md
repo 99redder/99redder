@@ -6,8 +6,6 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 🚀 Recent Projects
 
-⚛️ **[Reactor Scheduler](https://99redder.github.io/reactor-scheduler/)** (Jun 2026) - A polymer bead reactor and expander capacity planning app with scheduling engines, utilization checks, JSON backup/import, and test coverage.
-
 🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency information PWA with secure login, password reset, encrypted storage support, and a dedicated Ask K assistant.
 
 🏠 **[Rental Property Manager](https://99redder.github.io/rentals/)** (Apr 2026) - A property management app for tracking rental income, expenses, depreciation, tax planning, maintenance, and portfolio performance.
