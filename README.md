@@ -8,7 +8,18 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency information PWA with secure login, password reset, encrypted storage support, and a dedicated Ask K assistant.
 
-🏠 **[Rental Property Manager](https://99redder.github.io/rentals/)** (Apr 2026) - A property management app for tracking rental income, expenses, depreciation, tax planning, maintenance, and portfolio performance.
+🏠 **[STUFF](https://99redder.github.io/stuff/)** (Apr 2026) - A private all-in-one property, family finance, and planning dashboard. It tracks rental income and expenses, depreciation, tax summaries, investment return, maintenance logs, sale closeouts, itemized deductions, monthly budgeting, Mom Budget support, fair-share household cost splitting, savings goals, annual obligations, solar ROI, and projected federal/Maryland tax planning.
+
+Current STUFF tabs and tools:
+- **Property tabs:** 6AL, 95EB, 446BB, 731WO, and 4781 MC.
+- **Per-property views:** Current Year, Tax Summary, Investment Return, Historical, Maintenance, and All Properties.
+- **Monthly Budget:** income and expense planning, property income worksheets, monthly reserve planning, and an embedded Fair Share section.
+- **Fair Share:** household expense splitting for Mom's contribution, mortgage principal exclusion, USDA food benchmark adjustment, and a print-ready cost-sharing agreement generator.
+- **Mom Budget:** monthly assistance tracker with income templates, fixed bills, discretionary spending, overages, 401(k) RMD calculator, and a public read-only phone PWA.
+- **Tax Planning:** federal plus Maryland state/local projections with AGI threshold warnings for phase-outs and tax cliffs.
+- **Savings:** account balances, annual obligations, paid/unpaid tracking, and yearly reset behavior.
+- **Solar ROI:** solar production/credit/maintenance tracking and a billing cycle calculator.
+- **Deductions Tracker:** current-year itemized deduction logging with category summaries.
 
 🗓️ **[Look Ahead](https://lookahead.easternshore.ai)** (Mar 2026) - A cyberpunk calendar planner PWA with a rolling 12-week task grid, mobile view, and Cloudflare Worker + D1 syncing.
 
@@ -44,4 +55,4 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 📄 Last Updated
 
-*07 June, 2026*
+*05 July, 2026*
