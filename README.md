@@ -8,31 +8,33 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency information PWA with secure login, password reset, encrypted storage support, and a dedicated Ask K assistant.
 
-🏠 **[STUFF — Property Dashboard](https://99redder.github.io/stuff/)** (Apr 2026) - A private rental-property tracker for income, expenses, depreciation, and tax summaries across five properties, with per-property investment-return, historical, and maintenance views.
+🏠 **[Property Dashboard](https://99redder.github.io/stuff/)** (Apr 2026) - A private tracker for rental income, expenses, depreciation, and tax summaries across multiple properties, with per-property investment-return, historical, and maintenance views.
 
-💵 **[STUFF — Monthly Budget](https://99redder.github.io/stuff/)** (Apr 2026) - Plans monthly income and expenses with property income worksheets and reserve planning.
+💵 **[Monthly Budget](https://99redder.github.io/stuff/)** (Apr 2026) - Plans monthly income and expenses with property income worksheets and reserve planning.
 
-🤝 **[STUFF — Fair Share](https://99redder.github.io/stuff/)** (Apr 2026) - Splits household costs fairly — with mortgage-principal and USDA food-benchmark adjustments — and generates a print-ready cost-sharing agreement.
+🤝 **[Fair Share](https://99redder.github.io/stuff/)** (Apr 2026) - Splits household costs fairly — with mortgage-principal and USDA food-benchmark adjustments — and generates a print-ready cost-sharing agreement.
 
-👩 **[STUFF — Mom Budget](https://99redder.github.io/stuff/)** (Apr 2026) - A monthly assistance tracker with income templates, fixed bills, a 401(k) RMD calculator, and a public read-only phone PWA.
+👩 **[Mom Budget](https://99redder.github.io/stuff/)** (Apr 2026) - A monthly assistance tracker with income templates, fixed bills, and a 401(k) RMD calculator.
 
-🧮 **[STUFF — Tax Planning](https://99redder.github.io/stuff/)** (Apr 2026) - Projects federal plus Maryland state/local taxes with AGI-threshold warnings for phase-outs and tax cliffs.
+📱 **[Mom Mobile Budget](https://99redder.github.io/stuff/)** (Apr 2026) - A public, read-only phone PWA companion that shows the month's budget at a glance on the go.
 
-🏦 **[STUFF — Savings](https://99redder.github.io/stuff/)** (Apr 2026) - Tracks account balances and annual obligations with paid/unpaid status and automatic yearly resets.
+🧮 **[Tax Planning](https://99redder.github.io/stuff/)** (Apr 2026) - Projects federal plus Maryland state/local taxes with AGI-threshold warnings for phase-outs and tax cliffs.
 
-☀️ **[STUFF — Solar ROI](https://99redder.github.io/stuff/)** (Apr 2026) - Tracks solar production, credits, and maintenance with a billing-cycle calculator.
+🏦 **[Savings](https://99redder.github.io/stuff/)** (Apr 2026) - Tracks account balances and annual obligations with paid/unpaid status and automatic yearly resets.
 
-🧾 **[STUFF — Deductions Tracker](https://99redder.github.io/stuff/)** (Apr 2026) - Logs current-year itemized deductions with category summaries.
+☀️ **[Solar ROI](https://99redder.github.io/stuff/)** (Apr 2026) - Tracks solar production, credits, and maintenance with a billing-cycle calculator.
+
+🧾 **[Deductions Tracker](https://99redder.github.io/stuff/)** (Apr 2026) - Logs current-year itemized deductions with category summaries.
 
 🗓️ **[Look Ahead](https://lookahead.easternshore.ai)** (Mar 2026) - A cyberpunk calendar planner PWA with a rolling 12-week task grid, mobile view, and Cloudflare Worker + D1 syncing.
 
 🤖 **[Eastern Shore AI](https://www.easternshore.ai)** (Feb 2026) - A small business AI automation service offering workflow audits, custom automation builds, free assessments and booking, plus a portfolio of client sites.
 
-🛰️ **[Survival Node](https://www.easternshore.ai/node.html)** (2026) - An off-grid AI emergency preparedness kit: a debloated phone preloaded with 50GB+ of offline survival knowledge and a custom offline AI survival agent, packaged with a solar battery and Faraday case, sold via Stripe checkout.
+🛰️ **[Survival Node](https://www.easternshore.ai/node.html)** (2026) - A storefront for an off-grid AI emergency preparedness kit — a debloated phone preloaded with 50GB+ of offline survival knowledge and a custom offline AI survival agent, packaged with a solar battery and Faraday case — with Stripe checkout.
 
 🧩 **[OpenClaw Security Audit Button](https://github.com/99redder/openclaw-dashboard-security-audit-button-skill)** (Feb 2026) - An OpenClaw skill that adds a Security Audit (--deep) dashboard button with clear status states and chat-posted audit results.
 
-📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - A stock trading notes and portfolio tracking application. I use it every day!
+📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - Draggable sticky notes for stock ideas with color-coded categories, live prices and news, portfolio tracking, charts, an Ask K AI assistant, encrypted cloud sync, and a read-only mobile PWA companion. I use it every day!
 
 📖 **[Bible Reading Plan](https://www.bibleplannerapp.com)** (Jan 2026) - A mobile application for creating a fully personalized Bible reading plan.
 
