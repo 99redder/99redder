@@ -6,6 +6,8 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 🚀 Recent Projects
 
+👕 **[iDesign Apparel](https://idesignas.com)** (Sep 2026) - A custom WordPress/WooCommerce storefront theme for an apparel brand, with featured products, Women/Men/Kids shop filters, a custom-orders contact flow, WooPayments/PayPal checkout, and print-on-demand fulfillment via Merchize.
+
 🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency information PWA with secure login, password reset, encrypted storage support, and a dedicated Ask K assistant.
 
 🏠 **[Property Dashboard](https://99redder.github.io/stuff/)** (Apr 2026) - A private tracker for rental income, expenses, depreciation, and tax summaries across multiple properties, with per-property investment-return, historical, and maintenance views.
