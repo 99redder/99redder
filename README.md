@@ -6,6 +6,8 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 🚀 Recent Projects
 
+✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math-practice PWA for kids covering multiplication, division, and fractions, plus a Maryland MCAP-style practice test, with a Learn → Practice → Test flow and a parent dashboard tracking scores, trouble facts, and daily practice.
+
 👕 **[iDesign Apparel](https://idesignas.com)** (Sep 2026) - A custom WordPress/WooCommerce storefront theme for an apparel brand, with featured products, Women/Men/Kids shop filters, a custom-orders contact flow, WooPayments/PayPal checkout, and print-on-demand fulfillment via Merchize.
 
 🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency information PWA with secure login, password reset, encrypted storage support, and a dedicated Ask K assistant.
@@ -64,4 +66,4 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 📄 Last Updated
 
-*28 September, 2026*
+*02 October, 2026*
