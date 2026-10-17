@@ -6,6 +6,8 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 🚀 Recent Projects
 
+🎖️ **[Brigadier Bedlam](https://99redder.github.io/brigadier-bedlam/)** (Oct 2026) - An original slapstick single-player squad-tactics game built with TypeScript and Phaser 3, featuring ten-map campaigns with escalating difficulty, cover and facing-arc tactics, chaotic airstrikes and supply drops, and a shared all-time leaderboard backed by a Cloudflare Worker + D1.
+
 ✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math-practice PWA for kids covering multiplication, division, and fractions, plus a Maryland MCAP-style practice test, with a Learn → Practice → Test flow and a parent dashboard tracking scores, trouble facts, and daily practice.
 
 👕 **[iDesign Apparel](https://idesignas.com)** (Sep 2026) - A custom WordPress/WooCommerce storefront theme for an apparel brand, with featured products, Women/Men/Kids shop filters, a custom-orders contact flow, WooPayments/PayPal checkout, and print-on-demand fulfillment via Merchize.
@@ -66,4 +68,4 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 📄 Last Updated
 
-*02 October, 2026*
+*17 October, 2026*
