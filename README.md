@@ -8,7 +8,7 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 🎖️ **[Brigadier Bedlam](https://99redder.github.io/brigadier-bedlam/)** (Oct 2026) - An original slapstick squad-tactics game built in Phaser 3, with ten-map campaigns and a shared all-time leaderboard.
 
-✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math PWA for kids, built around a Learn → Practice → Test flow and a parent dashboard of trouble facts.
+✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math PWA for kids with a Learn → Practice → Test flow, a Maryland MCAP-style practice test, and a parent dashboard.
 
 👕 **[iDesign Apparel](https://idesignas.com)** (Sep 2026) - A custom WooCommerce storefront theme for an apparel brand, with print-on-demand fulfillment through Merchize.
 
