@@ -14,23 +14,23 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency information PWA with secure login, password reset, encrypted storage support, and a dedicated Ask K assistant.
 
-🏠 **[Property Dashboard](https://reds-stuff.pages.dev/)** (Apr 2026) - A private tracker for rental income, expenses, depreciation, and tax summaries across multiple properties, with per-property investment-return, historical, and maintenance views.
+🏠 **[Property Dashboard](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks rental income, expenses, depreciation, and tax summaries across multiple properties, with investment-return views.
 
-💵 **[Monthly Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - Plans monthly income and expenses with property income worksheets and reserve planning.
+💵 **[Monthly Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - Plans monthly income and expenses, with property income worksheets, reserve planning, and a running net-income total.
 
 🤝 **[Fair Share](https://reds-stuff.pages.dev/)** (Apr 2026) - Splits shared household costs fairly using benchmark-based adjustments, and generates a print-ready cost-sharing agreement.
 
 👪 **[Family Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - A monthly budget tracker with income templates, bill tracking, savings buckets, and retirement-withdrawal planning.
 
-📱 **[Budget Mobile](https://reds-stuff.pages.dev/mom-budget-phone)** (Apr 2026) - A private, sign-in phone app that shows the month's budget at a glance.
+📱 **[Budget Mobile](https://reds-stuff.pages.dev/mom-budget-phone)** (Apr 2026) - A private, sign-in phone app that shows the month's remaining budget and recent spending at a glance, on the go.
 
-🧮 **[Tax Planning](https://reds-stuff.pages.dev/)** (Apr 2026) - Projects federal plus state and local taxes with AGI-threshold warnings for phase-outs and tax cliffs.
+🧮 **[Tax Planning](https://reds-stuff.pages.dev/)** (Apr 2026) - Projects federal, state, and local taxes from live inputs, with AGI-threshold warnings for phase-outs and tax cliffs.
 
-🏦 **[Savings](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks account balances and annual obligations with paid/unpaid status and automatic yearly resets.
+🏦 **[Savings](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks account balances against annual obligations, with paid/unpaid status per bill and automatic yearly resets.
 
-☀️ **[Solar ROI](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks solar production, credits, and maintenance with a billing-cycle calculator.
+☀️ **[Solar ROI](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks solar production, credits, and maintenance costs against the system's price, with a billing-cycle calculator.
 
-🧾 **[Deductions Tracker](https://reds-stuff.pages.dev/)** (Apr 2026) - Logs current-year itemized deductions with category summaries.
+🧾 **[Deductions Tracker](https://reds-stuff.pages.dev/)** (Apr 2026) - Logs the current year's itemized deductions by category, with running totals and summaries ready for tax time.
 
 🗓️ **[Look Ahead](https://lookahead.easternshore.ai)** (Mar 2026) - A cyberpunk calendar planner PWA with a rolling 12-week task grid, mobile view, and Cloudflare Worker + D1 syncing.
 
