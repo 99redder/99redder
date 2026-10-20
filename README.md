@@ -14,23 +14,23 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency information PWA with secure login, password reset, encrypted storage support, and a dedicated Ask K assistant.
 
-🏠 **[Property Dashboard](https://99redder.github.io/stuff/)** (Apr 2026) - A private tracker for rental income, expenses, depreciation, and tax summaries across multiple properties, with per-property investment-return, historical, and maintenance views.
+🏠 **[Property Dashboard](https://reds-stuff.pages.dev/)** (Apr 2026) - A private tracker for rental income, expenses, depreciation, and tax summaries across multiple properties, with per-property investment-return, historical, and maintenance views.
 
-💵 **[Monthly Budget](https://99redder.github.io/stuff/)** (Apr 2026) - Plans monthly income and expenses with property income worksheets and reserve planning.
+💵 **[Monthly Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - Plans monthly income and expenses with property income worksheets and reserve planning.
 
-🤝 **[Fair Share](https://99redder.github.io/stuff/)** (Apr 2026) - Splits household costs fairly — with mortgage-principal and USDA food-benchmark adjustments — and generates a print-ready cost-sharing agreement.
+🤝 **[Fair Share](https://reds-stuff.pages.dev/)** (Apr 2026) - Splits household costs fairly — with mortgage-principal and USDA food-benchmark adjustments — and generates a print-ready cost-sharing agreement.
 
-👩 **[Mom Budget](https://99redder.github.io/stuff/)** (Apr 2026) - A monthly assistance tracker with income templates, fixed bills, and a 401(k) RMD calculator.
+👩 **[Mom Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - A monthly assistance tracker with income templates, fixed bills, and a 401(k) RMD calculator.
 
-📱 **[Mom Mobile Budget](https://99redder.github.io/stuff/)** (Apr 2026) - A public, read-only phone PWA companion that shows the month's budget at a glance on the go.
+📱 **[Mom Mobile Budget](https://reds-stuff.pages.dev/mom-budget-phone)** (Apr 2026) - A public, read-only phone PWA companion that shows the month's budget at a glance on the go.
 
-🧮 **[Tax Planning](https://99redder.github.io/stuff/)** (Apr 2026) - Projects federal plus Maryland state/local taxes with AGI-threshold warnings for phase-outs and tax cliffs.
+🧮 **[Tax Planning](https://reds-stuff.pages.dev/)** (Apr 2026) - Projects federal plus Maryland state/local taxes with AGI-threshold warnings for phase-outs and tax cliffs.
 
-🏦 **[Savings](https://99redder.github.io/stuff/)** (Apr 2026) - Tracks account balances and annual obligations with paid/unpaid status and automatic yearly resets.
+🏦 **[Savings](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks account balances and annual obligations with paid/unpaid status and automatic yearly resets.
 
-☀️ **[Solar ROI](https://99redder.github.io/stuff/)** (Apr 2026) - Tracks solar production, credits, and maintenance with a billing-cycle calculator.
+☀️ **[Solar ROI](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks solar production, credits, and maintenance with a billing-cycle calculator.
 
-🧾 **[Deductions Tracker](https://99redder.github.io/stuff/)** (Apr 2026) - Logs current-year itemized deductions with category summaries.
+🧾 **[Deductions Tracker](https://reds-stuff.pages.dev/)** (Apr 2026) - Logs current-year itemized deductions with category summaries.
 
 🗓️ **[Look Ahead](https://lookahead.easternshore.ai)** (Mar 2026) - A cyberpunk calendar planner PWA with a rolling 12-week task grid, mobile view, and Cloudflare Worker + D1 syncing.
 
