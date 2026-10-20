@@ -6,55 +6,55 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 🚀 Recent Projects
 
-🎖️ **[Brigadier Bedlam](https://99redder.github.io/brigadier-bedlam/)** (Oct 2026) - An original slapstick single-player squad-tactics game built with TypeScript and Phaser 3, featuring ten-map campaigns with escalating difficulty, cover and facing-arc tactics, chaotic airstrikes and supply drops, and a shared all-time leaderboard backed by a Cloudflare Worker + D1.
+🎖️ **[Brigadier Bedlam](https://99redder.github.io/brigadier-bedlam/)** (Oct 2026) - An original slapstick squad-tactics game built in Phaser 3, with ten-map campaigns and a shared all-time leaderboard.
 
-✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math-practice PWA for kids covering multiplication, division, and fractions, plus a Maryland MCAP-style practice test, with a Learn → Practice → Test flow and a parent dashboard tracking scores, trouble facts, and daily practice.
+✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math PWA for kids, built around a Learn → Practice → Test flow and a parent dashboard of trouble facts.
 
-👕 **[iDesign Apparel](https://idesignas.com)** (Sep 2026) - A custom WordPress/WooCommerce storefront theme for an apparel brand, with featured products, Women/Men/Kids shop filters, a custom-orders contact flow, WooPayments/PayPal checkout, and print-on-demand fulfillment via Merchize.
+👕 **[iDesign Apparel](https://idesignas.com)** (Sep 2026) - A custom WooCommerce storefront theme for an apparel brand, with print-on-demand fulfillment through Merchize.
 
-🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency information PWA with secure login, password reset, encrypted storage support, and a dedicated Ask K assistant.
+🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency-information PWA with secure, encrypted storage and a dedicated Ask K assistant to find answers fast.
 
-🏠 **[Property Dashboard](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks rental income, expenses, depreciation, and tax summaries across multiple properties, with investment-return views.
+🏠 **[Property Dashboard](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks rental income, expenses, and depreciation across multiple properties, with per-property investment-return analysis.
 
-💵 **[Monthly Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - Plans monthly income and expenses, with property income worksheets, reserve planning, and a running net-income total.
+💵 **[Monthly Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - Plans monthly household income and expenses, with property worksheets that turn each rental's rent into net income.
 
 🤝 **[Fair Share](https://reds-stuff.pages.dev/)** (Apr 2026) - Splits shared household costs fairly using benchmark-based adjustments, and generates a print-ready cost-sharing agreement.
 
-👪 **[Family Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - A monthly budget tracker with income templates, bill tracking, savings buckets, and retirement-withdrawal planning.
+👪 **[Family Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - A monthly budget tracker with income templates and bill tracking, built around savings buckets that roll over automatically.
 
-📱 **[Budget Mobile](https://reds-stuff.pages.dev/mom-budget-phone)** (Apr 2026) - A private, sign-in phone app that shows the month's remaining budget and recent spending at a glance, on the go.
+📱 **[Budget Mobile](https://reds-stuff.pages.dev/mom-budget-phone)** (Apr 2026) - A private, sign-in phone app built around one big number: the money left to spend this month, with recent spending below.
 
 🧮 **[Tax Planning](https://reds-stuff.pages.dev/)** (Apr 2026) - Projects federal, state, and local taxes from live inputs, with AGI-threshold warnings for phase-outs and tax cliffs.
 
-🏦 **[Savings](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks account balances against annual obligations, with paid/unpaid status per bill and automatic yearly resets.
+🏦 **[Savings](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks account balances against the year's annual obligations, showing at a glance whether savings cover every bill due.
 
-☀️ **[Solar ROI](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks solar production, credits, and maintenance costs against the system's price, with a billing-cycle calculator.
+☀️ **[Solar ROI](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks solar production, credits, and maintenance costs to show the system's running return, plus a billing-cycle calculator.
 
 🧾 **[Deductions Tracker](https://reds-stuff.pages.dev/)** (Apr 2026) - Logs the current year's itemized deductions by category, with running totals and summaries ready for tax time.
 
-🗓️ **[Look Ahead](https://lookahead.easternshore.ai)** (Mar 2026) - A cyberpunk calendar planner PWA with a rolling 12-week task grid, mobile view, and Cloudflare Worker + D1 syncing.
+🗓️ **[Look Ahead](https://lookahead.easternshore.ai)** (Mar 2026) - A cyberpunk calendar planner PWA built around a rolling 12-week task grid, with a mobile view and Cloudflare D1 sync.
 
-🤖 **[Eastern Shore AI](https://www.easternshore.ai)** (Feb 2026) - A small business AI automation service offering workflow audits, custom automation builds, free assessments and booking, plus a portfolio of client sites.
+🤖 **[Eastern Shore AI](https://www.easternshore.ai)** (Feb 2026) - A small-business AI automation service built on workflow audits and custom automations, with free assessments and booking.
 
-🛰️ **[Survival Node](https://www.easternshore.ai/node.html)** (2026) - A storefront for an off-grid AI emergency preparedness kit — a debloated phone preloaded with 50GB+ of offline survival knowledge and a custom offline AI survival agent, packaged with a solar battery and Faraday case — with Stripe checkout.
+🛰️ **[Survival Node](https://www.easternshore.ai/node.html)** (2026) - A storefront for an off-grid emergency kit: a phone running an offline AI survival agent with 50GB+ of offline knowledge.
 
-🧩 **[OpenClaw Security Audit Button](https://github.com/99redder/openclaw-dashboard-security-audit-button-skill)** (Feb 2026) - An OpenClaw skill that adds a Security Audit (--deep) dashboard button with clear status states and chat-posted audit results.
+🧩 **[OpenClaw Security Audit Button](https://github.com/99redder/openclaw-dashboard-security-audit-button-skill)** (Feb 2026) - An OpenClaw skill that adds a one-click Security Audit (--deep) dashboard button, with results posted straight to chat.
 
-📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - Draggable sticky notes for stock ideas with color-coded categories, live prices and news, portfolio tracking, charts, an Ask K AI assistant, encrypted cloud sync, and a read-only mobile PWA companion. I use it every day!
+📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - Draggable sticky notes for stock ideas with live prices and news, plus portfolio tracking and an AI assistant. I use it daily!
 
-📖 **[Bible Reading Plan](https://www.bibleplannerapp.com)** (Jan 2026) - A mobile application for creating a fully personalized Bible reading plan.
+📖 **[Bible Reading Plan](https://www.bibleplannerapp.com)** (Jan 2026) - A mobile app for a fully personalized Bible reading plan, where an onboarding survey builds your schedule of daily readings.
 
-✝️ **[CBF Church](https://www.cbfchurch.com)** (Jan 2026) - A church website where authorized users can add new blog posts and upload photos with zero code.
+✝️ **[CBF Church](https://www.cbfchurch.com)** (Jan 2026) - A church website with a zero-code admin panel, so authorized users can publish blog posts and upload photos themselves.
 
-🦁 **[Game Hub](https://www.gordongamehub.com)** (Jan 2026) - A hub for all the iPad games I've made for my son.
+🦁 **[Game Hub](https://www.gordongamehub.com)** (Jan 2026) - An iPad game hub PWA of simple, kid-friendly games I've made for my son, plus a family app for sending him messages.
 
-📒 **[FlorenceMaeGifts Tracker](https://fmg-tracker.vercel.app/session/sign-in)** (Sep 2022 - Jan 2026) - An accounting, stats, and taxes application for my wife's crocheting business.
+📒 **[FlorenceMaeGifts Tracker](https://fmg-tracker.vercel.app/session/sign-in)** (Sep 2022 - Jan 2026) - An accounting app for my wife's crocheting business that tracks sales and expenses and produces the numbers for taxes.
 
-🏗️ **[Job Tracker](https://99redder.github.io/JobTracker/)** (Jan 2026) - A mobile application for construction company project management.
+🏗️ **[Job Tracker](https://99redder.github.io/JobTracker/)** (Jan 2026) - A mobile app for construction company project management, built around tracking permits and inspections, plus bills.
 
 ## 📚 Older Projects
 
-🎨 **[FlorenceMaeGifts.com](https://www.florencemaegifts.com)** (Sep 2022) - An artist page and e-commerce site for my wife's crocheting business.
+🎨 **[FlorenceMaeGifts.com](https://www.florencemaegifts.com)** (Sep 2022) - An artist page and e-commerce site for my wife's crocheting business, showcasing her handmade gifts with online checkout.
 
 <br>
 
