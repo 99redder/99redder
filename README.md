@@ -18,13 +18,13 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 💵 **[Monthly Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - Plans monthly income and expenses with property income worksheets and reserve planning.
 
-🤝 **[Fair Share](https://reds-stuff.pages.dev/)** (Apr 2026) - Splits household costs fairly — with mortgage-principal and USDA food-benchmark adjustments — and generates a print-ready cost-sharing agreement.
+🤝 **[Fair Share](https://reds-stuff.pages.dev/)** (Apr 2026) - Splits shared household costs fairly using benchmark-based adjustments, and generates a print-ready cost-sharing agreement.
 
-👩 **[Mom Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - A monthly assistance tracker with income templates, fixed bills, and a 401(k) RMD calculator.
+👪 **[Family Budget](https://reds-stuff.pages.dev/)** (Apr 2026) - A monthly budget tracker with income templates, bill tracking, savings buckets, and retirement-withdrawal planning.
 
-📱 **[Mom Mobile Budget](https://reds-stuff.pages.dev/mom-budget-phone)** (Apr 2026) - A public, read-only phone PWA companion that shows the month's budget at a glance on the go.
+📱 **[Budget Mobile](https://reds-stuff.pages.dev/mom-budget-phone)** (Apr 2026) - A private, sign-in phone app that shows the month's budget at a glance.
 
-🧮 **[Tax Planning](https://reds-stuff.pages.dev/)** (Apr 2026) - Projects federal plus Maryland state/local taxes with AGI-threshold warnings for phase-outs and tax cliffs.
+🧮 **[Tax Planning](https://reds-stuff.pages.dev/)** (Apr 2026) - Projects federal plus state and local taxes with AGI-threshold warnings for phase-outs and tax cliffs.
 
 🏦 **[Savings](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks account balances and annual obligations with paid/unpaid status and automatic yearly resets.
 
