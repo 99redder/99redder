@@ -42,7 +42,7 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - Draggable sticky notes for stock ideas with live prices and news, plus portfolio tracking and an AI assistant. I use it daily!
 
-📖 **[Bible Reading Plan](https://www.bibleplannerapp.com)** (Jan 2026) - A mobile app for a fully personalized Bible reading plan, where an onboarding survey builds your schedule of daily readings.
+📖 **[Bible Reading Plan](https://biblereadingplan.app)** (Jan 2026) - A mobile app for a fully personalized Bible reading plan, where an onboarding survey builds your schedule of daily readings.
 
 ✝️ **[CBF Church](https://www.cbfchurch.com)** (Jan 2026) - A church website with a zero-code admin panel, so authorized users can publish blog posts and upload photos themselves.
 
