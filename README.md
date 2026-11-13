@@ -6,13 +6,17 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 🚀 Recent Projects
 
-🎖️ **[Brigadier Bedlam](https://99redder.github.io/brigadier-bedlam/)** (Oct 2026) - An original slapstick squad-tactics game built in Phaser 3, with ten-map campaigns and a shared all-time leaderboard.
+🏫 **Homeschool** (Oct 2026) - A private family homeschool app: an iPad dashboard for daily lessons and tests, plus a parent calendar and progress tracker.
 
-✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math PWA for kids with a Learn → Practice → Test flow, a Maryland MCAP-style practice test, and a parent dashboard.
+🎖️ **[Brigadier Bedlam](https://99redder.github.io/brigadier-bedlam/)** (Oct 2026) - An original slapstick squad-tactics game in Phaser 3, with ten-map campaigns, an online multiplayer beta, and a leaderboard.
 
-👕 **[iDesign Apparel](https://idesignas.com)** (Sep 2026) - A custom WooCommerce storefront theme for an apparel brand, with print-on-demand fulfillment through Merchize.
+✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math PWA for kids with Learn → Practice → Test lessons, earned avatars and badges, and a parent dashboard.
 
-🛡️ **[Just In Case](https://github.com/99redder/just-in-case)** (Apr 2026) - A private emergency-information PWA with secure, encrypted storage and a dedicated Ask K assistant to find answers fast.
+👕 **[iDesign Apparel](https://idesignas.com)** (Sep 2026) - A custom WooCommerce storefront for an apparel brand, with print-on-demand fulfillment and an Ask K shopping assistant.
+
+🪙 **CoinBar** (Sep 2026) - A native macOS menu bar crypto tracker that reads DEX pools straight from the chain, so small-token prices update in seconds.
+
+🛡️ **Just In Case** (Apr 2026) - A private emergency-information PWA with encrypted storage, new-device sign-in codes, and an Ask K assistant for fast answers.
 
 🏠 **[Property Dashboard](https://reds-stuff.pages.dev/)** (Apr 2026) - Tracks rental income, expenses, and depreciation across multiple properties, with per-property investment-return analysis.
 
@@ -40,32 +44,32 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 🧩 **[OpenClaw Security Audit Button](https://github.com/99redder/openclaw-dashboard-security-audit-button-skill)** (Feb 2026) - An OpenClaw skill that adds a one-click Security Audit (--deep) dashboard button, with results posted straight to chat.
 
-📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - Draggable sticky notes for stock ideas with live prices and news, plus portfolio tracking and an AI assistant. I use it daily!
+📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - Stock-idea sticky notes with live prices, synced portfolio tracking, an iPad YTD-vs-SPY board, and AI help. I use it daily!
 
-📖 **[Bible Reading Plan](https://biblereadingplan.app)** (Jan 2026) - A mobile app for a fully personalized Bible reading plan, where an onboarding survey builds your schedule of daily readings.
+📖 **[Bible Reading Plan](https://biblereadingplan.app)** (Jan 2026) - A mobile app for a fully personalized Bible reading plan, built from an onboarding survey, now in English or Spanish.
 
 ✝️ **[CBF Church](https://www.cbfchurch.com)** (Jan 2026) - A church website with a zero-code admin panel, so authorized users can publish blog posts and upload photos themselves.
 
 🦁 **[Game Hub](https://www.gordongamehub.com)** (Jan 2026) - An iPad game hub PWA of simple, kid-friendly games I've made for my son, plus a family app for sending him messages.
 
-📒 **[FlorenceMaeGifts Tracker](https://fmg-tracker.vercel.app/session/sign-in)** (Sep 2022 - Jan 2026) - An accounting app for my wife's crocheting business that tracks sales and expenses and produces the numbers for taxes.
+🎨 **[FlorenceMaeGifts.com](https://www.florencemaegifts.com)** (Sep 2022 - present) - My wife's crochet shop with online checkout, order tracking with status emails, an Ask K order-help chat, and an admin ledger.
 
 🏗️ **[Job Tracker](https://99redder.github.io/JobTracker/)** (Jan 2026) - A mobile app for construction company project management, built around tracking permits and inspections, plus bills.
 
 ## 📚 Older Projects
 
-🎨 **[FlorenceMaeGifts.com](https://www.florencemaegifts.com)** (Sep 2022) - An artist page and e-commerce site for my wife's crocheting business, showcasing her handmade gifts with online checkout.
+📒 **[FlorenceMaeGifts Tracker](https://fmg-tracker.vercel.app/session/sign-in)** (Sep 2022 - Jan 2026) - An accounting app for my wife's crocheting business that tracks sales and expenses and produces the numbers for taxes.
 
 <br>
 
 ## 🛠️ Technical Skills
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, Node.js
-- **Platforms:** Mobile Applications, Web Development
-- **Tools:** MiniMax, Vercel, Cloudflare, Digital Ocean, Render, Resend, Claude Code, Codex, OpenClaw, Neon, TiDB
+- **Languages:** JavaScript, TypeScript, Swift, PHP, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js, Phaser 3, SwiftUI
+- **Platforms:** Mobile Applications, Web Development, macOS, WordPress/WooCommerce
+- **Tools:** Vercel, Cloudflare, Digital Ocean, Render, Resend, Claude Code, Codex, OpenClaw, Neon, TiDB
 <br>
 
 ## 📄 Last Updated
 
-*17 October, 2026*
+*13 November, 2026*
