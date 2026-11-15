@@ -6,11 +6,13 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 🚀 Recent Projects
 
+🎬 **[Folder to Film](https://www.easternshore.ai/folder-to-film.html)** (Nov 2026) - Turns a folder of photos, videos, and notes into a narrated short film in six styles, plus keepsake books and audiobooks.
+
 🏫 **Homeschool** (Oct 2026) - A private family homeschool app: an iPad dashboard for daily lessons and tests, plus a parent calendar and progress tracker.
 
 🎖️ **[Brigadier Bedlam](https://99redder.github.io/brigadier-bedlam/)** (Oct 2026) - An original slapstick squad-tactics game in Phaser 3, with ten-map campaigns, an online multiplayer beta, and a leaderboard.
 
-✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math PWA for kids with Learn → Practice → Test lessons, earned avatars and badges, and a parent dashboard.
+✨ **[Magic Math](https://magic-math.pages.dev/)** (Oct 2026) - A sparkly iPad math PWA for kids: Learn → Practice → Test lessons, a Maryland MCAP-style test, badges, and a parent dashboard.
 
 👕 **[iDesign Apparel](https://idesignas.com)** (Sep 2026) - A custom WooCommerce storefront for an apparel brand, with print-on-demand fulfillment and an Ask K shopping assistant.
 
@@ -72,4 +74,4 @@ We're a team of 4 — but in true AI fashion, I am the only human employee. The 
 
 ## 📄 Last Updated
 
-*13 November, 2026*
+*15 November, 2026*
